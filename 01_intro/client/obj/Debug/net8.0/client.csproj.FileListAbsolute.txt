@@ -1,0 +1,14 @@
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\bin\Debug\net8.0\client.exe
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\bin\Debug\net8.0\client.deps.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\bin\Debug\net8.0\client.runtimeconfig.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\bin\Debug\net8.0\client.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\bin\Debug\net8.0\client.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.AssemblyInfoInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.AssemblyInfo.cs
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\refint\client.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\client.genruntimeconfig.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\01_intro\client\obj\Debug\net8.0\ref\client.dll
