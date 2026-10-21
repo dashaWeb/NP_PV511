@@ -1,0 +1,15 @@
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\bin\Debug\net8.0\server.exe
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\bin\Debug\net8.0\server.deps.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\bin\Debug\net8.0\server.runtimeconfig.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\bin\Debug\net8.0\server.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\bin\Debug\net8.0\server.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.sourcelink.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\refint\server.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\02_Messanger_UDP\server\obj\Debug\net8.0\ref\server.dll

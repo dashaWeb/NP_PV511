@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "server\\server.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Messanger\\Messanger.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

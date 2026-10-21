@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC362C6-B64F-403A-B65B-9C1A9FBEAB99}|server\\server.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\02_messanger_udp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC362C6-B64F-403A-B65B-9C1A9FBEAB99}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4C024-279A-49C9-AB7A-14066F5C364D}|Messanger\\Messanger.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\02_messanger_udp\\messanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4C024-279A-49C9-AB7A-14066F5C364D}|Messanger\\Messanger.csproj|solutionrelative:messanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4C024-279A-49C9-AB7A-14066F5C364D}|Messanger\\Messanger.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\02_messanger_udp\\messanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2C4C024-279A-49C9-AB7A-14066F5C364D}|Messanger\\Messanger.csproj|solutionrelative:messanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:06:13.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\Messanger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Messanger\\MainWindow.xaml",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\Messanger\\MainWindow.xaml",
+              "RelativeToolTip": "Messanger\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T16:05:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\Messanger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Messanger\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\02_Messanger_UDP\\Messanger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Messanger\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:05:46.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
