@@ -24,6 +24,7 @@ public partial class MainWindow : Window
     IPEndPoint serverPoint;
     UdpClient client;
     ObservableCollection<MessageInfo> messages;
+    Button join = null;
     public MainWindow()
     {
         InitializeComponent();
@@ -43,12 +44,14 @@ public partial class MainWindow : Window
     private void JoinButton_Click(object sender, RoutedEventArgs e)
     {
         SendMessage("$<Join>");
+        join = ((Button)sender);
+        join.IsEnabled = false;
         Listener();
     }
 
     private void LeaveButton_Click(object sender, RoutedEventArgs e)
     {
-
+        join.IsEnabled = true;
     }
     private async void SendMessage(string message)
     {

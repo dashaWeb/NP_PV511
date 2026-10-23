@@ -1,0 +1,15 @@
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\bin\Debug\net8.0\server2.exe
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\bin\Debug\net8.0\server2.deps.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\bin\Debug\net8.0\server2.runtimeconfig.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\bin\Debug\net8.0\server2.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\bin\Debug\net8.0\server2.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.AssemblyInfoInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.AssemblyInfo.cs
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.sourcelink.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\refint\server2.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\server2.genruntimeconfig.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\WpfApp1\server2\obj\Debug\net8.0\ref\server2.dll

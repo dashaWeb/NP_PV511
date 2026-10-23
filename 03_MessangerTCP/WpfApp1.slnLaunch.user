@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "server2\\server2.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "MessagerTCP\\MessagerTCP.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

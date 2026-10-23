@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AE90C5-F4F6-42D9-92F8-0674B8DA393F}|server2\\server2.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\wpfapp1\\server2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AE90C5-F4F6-42D9-92F8-0674B8DA393F}|server2\\server2.csproj|solutionrelative:server2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6FC9D-1B8D-411D-8FDD-394FBEAB5FA2}|MessagerTCP\\MessagerTCP.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\wpfapp1\\messagertcp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{20F6FC9D-1B8D-411D-8FDD-394FBEAB5FA2}|MessagerTCP\\MessagerTCP.csproj|solutionrelative:messagertcp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6FC9D-1B8D-411D-8FDD-394FBEAB5FA2}|MessagerTCP\\MessagerTCP.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\wpfapp1\\messagertcp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20F6FC9D-1B8D-411D-8FDD-394FBEAB5FA2}|MessagerTCP\\MessagerTCP.csproj|solutionrelative:messagertcp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\MessagerTCP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MessagerTCP\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\MessagerTCP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MessagerTCP\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:18:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\MessagerTCP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MessagerTCP\\MainWindow.xaml",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\MessagerTCP\\MainWindow.xaml",
+              "RelativeToolTip": "MessagerTCP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T17:17:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\server2\\Program.cs",
+              "RelativeDocumentMoniker": "server2\\Program.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\WpfApp1\\server2\\Program.cs",
+              "RelativeToolTip": "server2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:16:10.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
