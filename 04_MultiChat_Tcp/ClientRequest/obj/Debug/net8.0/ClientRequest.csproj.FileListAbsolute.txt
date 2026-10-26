@@ -1,0 +1,12 @@
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\bin\Debug\net8.0\ClientRequest.deps.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\bin\Debug\net8.0\ClientRequest.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\bin\Debug\net8.0\ClientRequest.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.AssemblyInfoInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.AssemblyInfo.cs
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.sourcelink.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\refint\ClientRequest.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ClientRequest.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\04_MultiChat_Tcp\ClientRequest\obj\Debug\net8.0\ref\ClientRequest.dll
