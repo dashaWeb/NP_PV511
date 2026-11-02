@@ -29,8 +29,7 @@
               "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\06_SendMessage_SMPT\\06_SendMessage_SMPT\\MainWindow.xaml",
               "RelativeToolTip": "06_SendMessage_SMPT\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-30T16:24:56.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T16:24:56.085Z"
             },
             {
               "$type": "Document",
@@ -38,9 +37,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\06_SendMessage_SMPT\\06_SendMessage_SMPT\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "06_SendMessage_SMPT\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\06_SendMessage_SMPT\\06_SendMessage_SMPT\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "06_SendMessage_SMPT\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAA1AAAAAAAAAA==",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\06_SendMessage_SMPT\\06_SendMessage_SMPT\\MainWindow.xaml.cs",
+              "RelativeToolTip": "06_SendMessage_SMPT\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T16:24:54.104Z",
               "EditorCaption": ""
