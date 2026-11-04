@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D859ACB5-8A3D-45E0-9386-41F3D94EB8DA}|Server\\Server.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\tic_tac_toe_dm\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859ACB5-8A3D-45E0-9386-41F3D94EB8DA}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B10C3-1F56-4B57-9207-6A26414C388A}|Client\\Client.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\tic_tac_toe_dm\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B10C3-1F56-4B57-9207-6A26414C388A}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859ACB5-8A3D-45E0-9386-41F3D94EB8DA}|Server\\Server.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\tic_tac_toe_dm\\server\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859ACB5-8A3D-45E0-9386-41F3D94EB8DA}|Server\\Server.csproj|solutionrelative:server\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B10C3-1F56-4B57-9207-6A26414C388A}|Client\\Client.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\tic_tac_toe_dm\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3B10C3-1F56-4B57-9207-6A26414C388A}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B751DC-A9D8-4A4F-8BD5-45F2BBA7E28D}|CommandClasses\\CommandClasses.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\tic_tac_toe_dm\\commandclasses\\clientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B751DC-A9D8-4A4F-8BD5-45F2BBA7E28D}|CommandClasses\\CommandClasses.csproj|solutionrelative:commandclasses\\clientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Server\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Server\\PlayerInfo.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Server\\PlayerInfo.cs",
+              "RelativeToolTip": "Server\\PlayerInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:52:32.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Server\\Program.cs*",
+              "RelativeToolTip": "Server\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:51:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T15:45:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientCommand.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\CommandClasses\\ClientCommand.cs",
+              "RelativeDocumentMoniker": "CommandClasses\\ClientCommand.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\CommandClasses\\ClientCommand.cs",
+              "RelativeToolTip": "CommandClasses\\ClientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:41:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\Tic_Tac_Toe_DM\\Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:18:58.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

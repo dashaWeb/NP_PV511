@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9fff39e3f0669744a11a3332e219ad6f095004c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7cd191b0f199834c5915a8645d921216bd69ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

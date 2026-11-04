@@ -103,6 +103,9 @@ internal class Program
             {
                 Console.WriteLine(item.Name);
             }
+            var top = client.GetFolder(client.PersonalNamespaces[0]);
+            top.Create("New Folder", true);
+
             //client.GetFolder(MailKit.SpecialFolder.Sent).Open(MailKit.FolderAccess.ReadWrite);
             //var folder = client.GetFolder(MailKit.SpecialFolder.Sent);
             //var id = folder.Search(SearchQuery.All)[folder.Search(SearchQuery.All).Count - 1];
@@ -121,18 +124,18 @@ internal class Program
             //    Console.WriteLine($"{res.Date} {res.Subject} \t {res?.Body?.ContentBase}" );
             //}
 
-            client.Inbox.Open(MailKit.FolderAccess.ReadWrite);
-            var inbox = client.Inbox.Search(SearchQuery.All);
-            foreach (var item in inbox)
-            {
-                var res = client.Inbox.GetMessage(item);
-                Console.WriteLine($"{res.Date} {res.Subject} ");
-                foreach (var item1 in res.Attachments)
-                {
-                    Console.WriteLine(item1?.ContentType.Name);
-                    Console.WriteLine(item1?.ContentDisposition?.FileName);
-                }
-            }
+            //client.Inbox.Open(MailKit.FolderAccess.ReadWrite);
+            //var inbox = client.Inbox.Search(SearchQuery.All);
+            //foreach (var item in inbox)
+            //{
+            //    var res = client.Inbox.GetMessage(item);
+            //    Console.WriteLine($"{res.Date} {res.Subject} ");
+            //    foreach (var item1 in res.Attachments)
+            //    {
+            //        Console.WriteLine(item1?.ContentType.Name);
+            //        Console.WriteLine(item1?.ContentDisposition?.FileName);
+            //    }
+            //}
         }
     }
 }

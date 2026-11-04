@@ -1,0 +1,12 @@
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\bin\Debug\net8.0\CommandClasses.deps.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\bin\Debug\net8.0\CommandClasses.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\bin\Debug\net8.0\CommandClasses.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.AssemblyInfoInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.AssemblyInfo.cs
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.sourcelink.json
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\refint\CommandClasses.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\CommandClasses.pdb
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\CommandClasses\obj\Debug\net8.0\ref\CommandClasses.dll

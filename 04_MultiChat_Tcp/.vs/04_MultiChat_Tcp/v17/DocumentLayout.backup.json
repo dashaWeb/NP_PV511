@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73CD1290-0570-4F50-AE97-BF04A4BA85C3}|ChatServer\\ChatServer.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\04_multichat_tcp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73CD1290-0570-4F50-AE97-BF04A4BA85C3}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8D221C9-B627-4FD8-A091-C7583BB7960C}|ChatUI\\ChatUI.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\04_multichat_tcp\\chatui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8D221C9-B627-4FD8-A091-C7583BB7960C}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CD1290-0570-4F50-AE97-BF04A4BA85C3}|ChatServer\\ChatServer.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\04_multichat_tcp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CD1290-0570-4F50-AE97-BF04A4BA85C3}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA5C6FA2-481E-4DD3-B3AA-3F8086FA9B4A}|ClientRequest\\ClientRequest.csproj|d:\\dasha\\programming\\np\\example_group\\np - pv511\\04_multichat_tcp\\clientrequest\\clientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -43,12 +43,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatServer\\Program.cs",
-              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatServer\\Program.cs*",
-              "RelativeToolTip": "ChatServer\\Program.cs*",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAAAD8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T16:36:27.611Z",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChatUI\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatUI\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "ChatUI\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFEAAAA9AAAAAAAAAA==",
+              "ToolTip": "D:\\Dasha\\Programming\\NP\\example_group\\NP - PV511\\04_MultiChat_Tcp\\ChatUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T16:35:46.761Z",
               "EditorCaption": ""
