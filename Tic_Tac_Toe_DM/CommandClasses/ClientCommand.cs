@@ -1,6 +1,9 @@
-﻿namespace CommandClasses
+﻿
+
+namespace CommandClasses
 {
     // перелік типів команд
+    [Serializable]
     public enum CommandType
     {
         WAIT,    // очікування (опонента)
@@ -12,6 +15,7 @@
     }
 
     // координати клітинки
+    [Serializable]
     public struct CellCoord
     {
         public int RowIndex { get; set; }
@@ -24,6 +28,7 @@
     }
 
     // клас, який містить інформацію, яка передається від клієнта на сервер
+    [Serializable]
     public class ClientCommand
     {
         public CommandType Type { get; set; }
@@ -38,6 +43,7 @@
     }
 
     // клас, який містить інформацію, яка передається від сервера на клієнт
+    [Serializable]
     public class ServerCommand
     {
         public CommandType Type { get; set; }

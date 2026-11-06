@@ -17,3 +17,4 @@ D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Server\obj\Debug
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Server\obj\Debug\net8.0\Server.pdb
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Server\obj\Debug\net8.0\ref\Server.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Server\bin\Debug\net8.0\Newtonsoft.Json.dll

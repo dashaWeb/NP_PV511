@@ -23,3 +23,4 @@ D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Client\obj\Debug
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Client\obj\Debug\net8.0-windows\Client.pdb
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
 D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Client\obj\Debug\net8.0-windows\ref\Client.dll
+D:\Dasha\Programming\NP\example_group\NP - PV511\Tic_Tac_Toe_DM\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll

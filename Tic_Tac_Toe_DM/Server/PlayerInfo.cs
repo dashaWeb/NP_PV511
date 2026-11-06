@@ -1,4 +1,5 @@
 ﻿using CommandClasses;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,8 @@ namespace Server
         private void SendCommand(ServerCommand command)
         {
             StreamWriter writer = new StreamWriter(TcpClient.GetStream());
-            writer.WriteLine(JsonSerializer.Serialize<ServerCommand>(command));
+            writer.WriteLine(JsonConvert.SerializeObject(command));
+            writer.Flush();
         }
         // методи відправки конкретних команд
         public void SendCloseCommand()
@@ -54,8 +56,8 @@ namespace Server
         public ClientCommand ReceiveCommand()
         {
             StreamReader sr = new StreamReader(TcpClient.GetStream());
-            string resp = sr.ReadLine();
-            return JsonSerializer.Deserialize<ClientCommand>(resp);
+            string resp = sr.ReadLine()!;
+            return JsonConvert.DeserializeObject<ClientCommand>(resp)!;
         }
 
         // метод обробки команд від клієнта та взаємодії з опонентом

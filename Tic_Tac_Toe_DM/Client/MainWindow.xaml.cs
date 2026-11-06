@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using CommandClasses;
+using Newtonsoft.Json;
 using System.Text.Json;
 
 namespace Client;
@@ -66,9 +67,10 @@ public partial class MainWindow : Window
             // серіалізуємо об'єкт команди в мережевий потік,
             // після чого відразу відбувається відправка
             StreamWriter writer = new StreamWriter(client.GetStream());
-            var com = JsonSerializer.Serialize<ClientCommand>(command);
-
+            var com = JsonConvert.SerializeObject(command);
+            var test = JsonConvert.DeserializeObject<ClientCommand>(com);
             writer.WriteLine(com);
+            writer.Flush();
 
         });
     }
@@ -80,10 +82,11 @@ public partial class MainWindow : Window
             // десеріалізуємо об'єкт команди з мережевого потоку
             // та повертаємо його
 
-            StreamReader sr = new StreamReader(client.GetStream());
-            string resp = sr.ReadLine();
+            StreamReader sr = new StreamReader(client.GetStream())!;
+            string resp = sr.ReadLine()!;
+          
 
-            return JsonSerializer.Deserialize<ServerCommand>(resp);
+            return JsonConvert.DeserializeObject<ServerCommand>(resp)!;
         });
     }
 
@@ -166,7 +169,6 @@ public partial class MainWindow : Window
                 // запускамо метод прослуховування команд він сервера
                 Listen();
 
-                MessageBox.Show("Send");
                 IsPlaying = true;
             }
         }

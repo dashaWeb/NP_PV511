@@ -4,6 +4,7 @@ using System.Net;
 using System.Text.Json;
 using Server;
 using CommandClasses;
+using Newtonsoft.Json;
 
 internal class Program
 {
@@ -28,13 +29,13 @@ internal class Program
             try
             {
                 TcpClient client = server.AcceptTcpClient();
-                Console.WriteLine("Connect");
+                
                 // отримуємо об'єкт команди від клієнта
                 NetworkStream ns = client.GetStream();
                 StreamReader sr = new StreamReader(ns);
-                string resp = sr.ReadLine();
-                Console.WriteLine(resp);
-                var command = JsonSerializer.Deserialize<ClientCommand>(resp);
+                string resp = sr.ReadLine()!;
+                
+                var command = JsonConvert.DeserializeObject<ClientCommand>(resp);
                 // обробляємо команду
                 switch (command.Type)
                 {
